@@ -1,0 +1,14 @@
+.main-container {
+  margin-left: 20px;
+  font-size: 120%;
+}
+
+.header {
+  text-align: center;
+  color: brown;
+  font-weight: bold;
+}
+
+.input {
+  margin-right: 10px;
+}
